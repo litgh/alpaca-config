@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.light.alpaca.config.autoconfig.AlpacaConfigAutoConfiguration
